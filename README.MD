@@ -11,12 +11,26 @@ Make sure that your have Node and NPM installed before starting.
 
 
 ## USAGE
------
+--------
 
 Within the cloned project folder, install the required dependencies by running:
 
     npm i
 
-Then add an execution script to your startup Terminal file (i.e. bash, zsh, etc.)! 
+## CHANGING FONTS
+-----------------
 
-To add a greet, go to data > index.js and add your greets in the array!
+ASCII art package supports fonts from [Figlet](https://www.figlet.org/).
+You can download and add a Figlet font to your **node_modules/ascii-art-font/Fonts**
+Once added, you can 
+
+
+## RUN ON TERMINAL SHELL OPEN
+-----------------
+
+In order to run when your shell window opens,
+add an execution script to your startup shell file (i.e. bash, zsh, etc.)!
+
+i.e. node ~/path_to_project_index.js
+
+Add your greets to the array in **data > index.js**

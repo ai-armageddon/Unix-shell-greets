@@ -1,5 +1,7 @@
-const greets = ['Welcome', 'Hi', 'Greetings'];
+const greets = ['Welcome', 'Hi', 'Greetings', "MR. ROBOT"];
+const fonts = ['doom'];
 
 module.exports = {
-  greets: greets
+  greets: greets,
+  fonts: fonts
 }
