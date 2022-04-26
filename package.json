@@ -1,0 +1,14 @@
+{
+  "name": "ascii-art-gen",
+  "version": "0.0.2",
+  "description": "A micro app that generates ASCII art",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "author": "J. Boulerice",
+  "license": "MIT",
+  "dependencies": {
+    "ascii-art": "^2.8.5"
+  }
+}
