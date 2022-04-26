@@ -24,7 +24,7 @@ ASCII art package supports fonts from [Figlet](https://www.figlet.org/).
 You can download and add a Figlet font to the **node_modules/ascii-art-font/Fonts**
 
 Once added, you can reference the font in the font array 
-or directly if not using rand fonts
+or directly if not using rand fonts.
 
 ## RUN ON TERMINAL SHELL OPEN
 -----------------
