@@ -19,7 +19,7 @@ Within the cloned project folder, install the required dependencies by running:
 
 Then add an execution script to your startup Terminal file (i.e. bash, zsh, etc.)! 
 
-##Adding greets
+## Adding greets
 -------------
 
 To add a greet, go to data > index.js and add your greets in the array!
